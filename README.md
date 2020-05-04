@@ -8,9 +8,11 @@
 
 ## 使用
 
+[CodeSandbox](https://codesandbox.io/s/wizardly-mcnulty-3xz0jwzpv5)
+
 ```jsx
 import Modal from 'react-widget-modal';
-import 'react-widget-modal/style';
+import 'react-widget-modal/cjs/style/index.css';
 
 class App extends React.Component {
   state = { visible: false };
