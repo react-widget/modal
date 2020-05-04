@@ -8,7 +8,7 @@
 
 ## 使用
 
-[CodeSandbox](https://codesandbox.io/s/wizardly-mcnulty-3xz0jwzpv5)
+[![Edit react-widget-modal](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/wizardly-mcnulty-3xz0jwzpv5?fontsize=14&hidenavigation=1&theme=dark)
 
 ```jsx
 import Modal from 'react-widget-modal';
