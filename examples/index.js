@@ -7,7 +7,7 @@ import ReactDOM from "react-dom";
 import "./style/index.scss";
 import "./style/animate.scss";
 
-import "../src/style/index.scss";
+import "../src/style/index.css";
 
 import Demo from "./Demo";
 

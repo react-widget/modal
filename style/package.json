@@ -1,5 +1,5 @@
 {
-	"name": "react-widget-popup/style",
+	"name": "react-widget-modal/style",
 	"private": true,
 	"main": "../cjs/style/index.js",
 	"module": "../esm/style/index.js"

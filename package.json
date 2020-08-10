@@ -1,6 +1,6 @@
 {
 	"name": "react-widget-modal",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "",
 	"main": "cjs/index.js",
 	"module": "esm/index.js",
@@ -63,9 +63,9 @@
 		"@types/react-transition-group": "^4.2.4",
 		"classnames": "^2.2.6",
 		"dom-helpers": "^5.1.4",
-		"dom-helpers-extra": "^0.1.0",
+		"dom-helpers-extra": "^0.2.1",
 		"lodash": "^4.17.15",
-		"react-widget-popup": "^3.4.2"
+		"react-widget-popup": "^3.4.8"
 	},
 	"browserslist": [
 		">=0.25%",
